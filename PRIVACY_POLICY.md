@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-Welcome to On Command ("we", "our", or "us"). This Privacy Policy explains how we handle information when you use our macOS application On Command (the "App"). We are committed to protecting your privacy and being transparent about our practices.
+Welcome to On Command. This Privacy Policy explains how we handle information when you use our macOS application On Command. We are committed to protecting your privacy and being transparent about our practices.
 
 By downloading or using On Command, you agree to the terms described in this Privacy Policy.
 
